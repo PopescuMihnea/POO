@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615896489 source:e:\mihu\unibuc\onedrive - unibuc.ro\anul1\sem2\poo\proiecte\proiect 1\proiect\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<vector>
+
