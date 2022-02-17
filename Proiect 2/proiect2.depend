@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1618168104 source:d:\unibuc\onedrive - unibuc.ro\anul1\sem2\poo\proiecte\proiect2\main.cpp
+	<iostream>
+	<string.h>
+
+1618420109 source:e:\mihu\unibuc\onedrive - unibuc.ro\anul1\sem2\poo\proiecte\proiect2\main.cpp
+	<iostream>
+	<string.h>
+	<typeinfo>
+
